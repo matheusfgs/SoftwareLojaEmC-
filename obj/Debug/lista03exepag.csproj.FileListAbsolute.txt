@@ -1,0 +1,11 @@
+H:\Logica\lista03exepag\lista03exepag\bin\Debug\lista03exepag.exe.config
+H:\Logica\lista03exepag\lista03exepag\bin\Debug\lista03exepag.exe
+H:\Logica\lista03exepag\lista03exepag\bin\Debug\lista03exepag.pdb
+H:\Logica\lista03exepag\lista03exepag\obj\Debug\lista03exepag.csproj.AssemblyReference.cache
+H:\Logica\lista03exepag\lista03exepag\obj\Debug\lista03exepag.csproj.SuggestedBindingRedirects.cache
+H:\Logica\lista03exepag\lista03exepag\obj\Debug\lista03exepag.FrmLista3atv.resources
+H:\Logica\lista03exepag\lista03exepag\obj\Debug\lista03exepag.Properties.Resources.resources
+H:\Logica\lista03exepag\lista03exepag\obj\Debug\lista03exepag.csproj.GenerateResource.cache
+H:\Logica\lista03exepag\lista03exepag\obj\Debug\lista03exepag.csproj.CoreCompileInputs.cache
+H:\Logica\lista03exepag\lista03exepag\obj\Debug\lista03exepag.exe
+H:\Logica\lista03exepag\lista03exepag\obj\Debug\lista03exepag.pdb
